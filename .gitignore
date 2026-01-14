@@ -1,0 +1,17 @@
+# Node
+node_modules
+.next
+dist
+.turbo
+*.log
+
+# Python
+venv
+__pycache__
+*.pyc
+.env*
+!.env.example
+.pytest_cache
+
+# OS
+.DS_Store

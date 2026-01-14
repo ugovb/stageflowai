@@ -1,0 +1,7 @@
+{
+  "name": "@stageflow/types",
+  "version": "1.0.0",
+  "description": "Shared types for StageFlow AI",
+  "main": "src/index.ts",
+  "types": "src/index.ts"
+}
